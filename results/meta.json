@@ -1,0 +1,15 @@
+{
+  "classes": [
+    "B cells",
+    "CD14+ Monocytes",
+    "CD4 T cells",
+    "CD8 T cells",
+    "Dendritic cells",
+    "FCGR3A+ Monocytes",
+    "Megakaryocytes",
+    "NK cells"
+  ],
+  "best_model": "Logistic Regression (balanced)",
+  "n_cells": 2638,
+  "n_genes": 1838
+}
